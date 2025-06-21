@@ -7,9 +7,7 @@ An interactive Power BI dashboard to analyze sales, profit, and customer behavio
 - 💳 Total Sales, Profit, and Average Order Value KPIs
 - 📈 Monthly trend line of sales and profit
 - 📊 Sales by Category, Region, and Segment
-- 🔻 Loss-making product detection with conditional formatting
 - 🔍 Dynamic slicers for product, region, segment, and time
-- ✅ Icons to visualize profit/loss per product
 
 ## 📁 Files
 
